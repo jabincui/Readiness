@@ -11,6 +11,7 @@
     <modules>
         <module>java-basis</module>
         <module>algorithm</module>
+        <module>netty-in-action-note</module>
     </modules>
 
     <properties>
